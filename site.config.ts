@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Rishi Mehra',
-  domain: 'rishimehra.in',
+  domain: 'rishimehra.tk',
   author: 'Rishi Mehra',
 
   // open graph metadata (optional)
